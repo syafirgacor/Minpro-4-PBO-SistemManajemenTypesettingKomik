@@ -1,4 +1,7 @@
 # 📚 Minpro-4-PBO-SistemManajemenTypesettingKomik
+## Nama: Syafir Ahzami
+## NIM: 2509116074
+## Kelas: B
 
 Sistem Manajemen Typesetting Komik berbasis **Konsol / CLI (Command Line Interface)** yang dibangun menggunakan bahasa pemrograman **Java**, diintegrasikan dengan basis data **MySQL** melalui teknologi **JDBC (`PreparedStatement`)**, serta menerapkan pola arsitektur **DAO (Data Access Object)** dan **MVC (Model-View-Controller)**.
 
